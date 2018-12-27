@@ -5,5 +5,8 @@ function paragraphSelector() {
 
 function lastImageSelector() {
   return $('img:last');
-  // return images[images.length - 1];
+}
+
+function ninjaBabySelector() {
+  return $('')
 }
